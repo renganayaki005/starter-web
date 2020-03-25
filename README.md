@@ -22,7 +22,7 @@ This is a simple web project, deployment can be on any web server
 
 ###copyright
 
-Copyright notice
+Copyright notice alrights reserved
 
 ##How to contribute
 
