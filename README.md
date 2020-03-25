@@ -23,3 +23,8 @@ This is a simple web project, deployment can be on any web server
 ###copyright
 
 Copyright notice
+
+##How to contribute
+
+Please fork this repo and then issue pull request.
+
