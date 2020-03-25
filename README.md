@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work. Adding another line. more changes from feature branch as well.
-
+Quick fix after stash
 ##Introduction
 
 This is example to show different parts of git repo and various commands using a web project
